@@ -38,7 +38,6 @@ O seguinte passo a passo foi seguido:
 - Conclusão.
  
 ### **Sobre o Projeto:**
-Este projeto oferece uma análise detalhada das vendas da rede de varejo, fornecendo insights valiosos para orientar as decisões estratégicas. As respostas às perguntas de negócios destacam padrões de compra, áreas de oportunidade e potenciais melhorias para impulsionar o desempenho geral das vendas.
 
 A abordagem completa dessas etapas, explicando o objetivo de cada decisão tomada, encontra-se no notebook:
 https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA/blob/main/src/Rede%20de%20Varejo%20-%20EUA.ipynb
