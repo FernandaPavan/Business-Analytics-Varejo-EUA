@@ -25,10 +25,9 @@ Qual é a média do valor de venda antes e depois da aplicação do desconto de 
 Qual é a média de vendas por segmento, ano e mês?
 - **Pergunta de Negócio 10:**
 Qual é o total de vendas por categoria e subcategoria, focando apenas nas 12 principais subcategorias?
+<br>
 
-
-### **Planejamento da solução**
-O seguinte passo a passo foi seguido:
+### **Planejamento da solução:**
 
 - Coleta de dados.
 - Entendimento do contexto negócio.
