@@ -35,7 +35,8 @@ Qual é o total de vendas por categoria e subcategoria, focando apenas nas 12 pr
 - Limpeza dos dados.
 - Análise exploratória de dados.
 - Conclusão.
- 
+<br>
+
 ### **Sobre o Projeto:**
 
 A abordagem completa dessas etapas, explicando o objetivo de cada decisão tomada, encontra-se no notebook:
