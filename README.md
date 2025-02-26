@@ -29,51 +29,16 @@ Qual é o total de vendas por categoria e subcategoria, focando apenas nas 12 pr
 
 ### **Descrição do Projeto:**
 
-1 - Carregar e Inspecionar os Dados:
-
-- Carregar o conjunto de dados no seu ambiente de análise (Python).
-
-- Inspecionar os dados para entender a estrutura e as variáveis disponíveis.
-
-2 - Limpeza de Dados:
-
-- Tratar valores ausentes ou nulos.
-
-- Verificar e corrigir possíveis inconsistências nos dados.
-
-3 - Filtragem por Categoria de Produto:
-
-- Para a pergunta 1, filtre os dados pela categoria.
-
-4 - Agrupamento e Agregação:
-
-- Para perguntas que envolvem totais ou médias, agrupe os dados com base nas variáveis necessárias e calcule as métricas desejadas.
-
-5 - Análise Temporal:
-
-- Para perguntas que envolvem análise ao longo do tempo, crie colunas adicionais para ano e mês, se necessário.
-
-- Utilize essas colunas para agrupar e analisar as vendas ao longo do tempo (total de vendas, média de vendas, etc.).
-
-6 - Distribuição Geográfica:
-
-- Para perguntas sobre distribuição de vendas entre estados ou cidades, agrupe os dados por estado ou cidade e calcule os totais de venda.
-
-7 - Identificação de Segmentos de Produto:
-
-- Agrupe os dados por segmentos de produto e calcule o total de vendas por segmento.
-
-8 - Aplicação de Regras Condicionais:
-
-- Para calcular quantas vendas receberão 15% de desconto, aplique as regras condicionais ao conjunto de dados.
-
-9 - Cálculo de Descontos:
-
-- Calcule a média do valor de venda antes e depois da aplicação do desconto de 15%.
-
-10 - Análises Detalhadas:
-
-- Para análises mais detalhadas por categoria e subcategoria, agrupe os dados por essas dimensões e filtre as 12 principais subcategorias com base no volume de vendas.
+- Carregar e Inspecionar os Dados
+- Limpeza de Dados
+- Filtragem por Categoria de Produto
+- Agrupamento e Agregação
+- Análise Temporal
+- Distribuição Geográfica
+- Identificação de Segmentos de Produto
+- Aplicação de Regras Condicionais
+- Cálculo de Descontos
+- Análises Detalhadas
 <br>
 
 ### **Sobre o Projeto:**
