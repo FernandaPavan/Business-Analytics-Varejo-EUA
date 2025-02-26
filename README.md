@@ -40,4 +40,4 @@ Qual é o total de vendas por categoria e subcategoria, focando apenas nas 12 pr
 ### **Sobre o Projeto:**
 
 A abordagem completa dessas etapas, explicando o objetivo de cada decisão tomada, encontra-se no notebook:
-https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA/blob/main/src/Rede%20de%20Varejo%20-%20EUA.ipynb
+[Business Analytics Varejo EUA](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA/blob/main/src/Rede%20de%20Varejo%20-%20EUA.ipynb)
