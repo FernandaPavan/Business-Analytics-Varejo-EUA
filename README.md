@@ -27,7 +27,7 @@ Qual é a média de vendas por segmento, ano e mês?
 Qual é o total de vendas por categoria e subcategoria, focando apenas nas 12 principais subcategorias?
 <br>
 
-### **Planejamento da solução:**
+### **Descrição do Projeto:**
 
 - Coleta de dados.
 - Entendimento do contexto negócio.
